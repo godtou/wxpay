@@ -6,7 +6,7 @@
 
 package smartGuide
 
-import "github.com/wleven/wxpay/src/config"
+import "github.com/godtou/wxpay/src/config"
 
 // Register 注册服务人员参数
 type Register struct {

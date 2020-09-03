@@ -7,8 +7,8 @@
 package V3
 
 import (
-	"github.com/wleven/wxpay/src/V3/smartGuide"
-	"github.com/wleven/wxpay/src/config"
+	"github.com/godtou/wxpay/src/V3/smartGuide"
+	"github.com/godtou/wxpay/src/config"
 )
 
 type API struct {

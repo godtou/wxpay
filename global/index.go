@@ -7,8 +7,8 @@
 package global
 
 import (
-	"github.com/wleven/wxpay/src/config"
-	"github.com/wleven/wxpay/src/entity"
+	"github.com/godtou/wxpay/src/config"
+	"github.com/godtou/wxpay/src/entity"
 )
 
 var V3 = config.V3{

@@ -6,8 +6,8 @@
 - [x] V3 版支付即服务
 
 ![go 1.15](https://img.shields.io/badge/go-1.15-green)
-[![go.dev doc](https://img.shields.io/badge/go.dev-doc-green)](https://pkg.go.dev/github.com/wleven/wxpay)
-[![GitHub license](https://img.shields.io/github/license/wleven/wxpay)](https://github.com/wleven/wxpay/blob/master/LICENSE)
+[![go.dev doc](https://img.shields.io/badge/go.dev-doc-green)](https://pkg.go.dev/github.com/godtou/wxpay)
+[![GitHub license](https://img.shields.io/github/license/godtou/wxpay)](https://github.com/godtou/wxpay/blob/master/LICENSE)
 
 - [安装包](#安装包)
 - [查看文档](#查看文档)
@@ -19,7 +19,7 @@
 ## 安装包
 
 ```golang
-go get -u  github.com/wleven/wxpay
+go get -u  github.com/godtou/wxpay
 ```
 
 ## 查看文档
@@ -28,7 +28,7 @@ go get -u  github.com/wleven/wxpay
 // 执行命令
 godoc -http=:8888 -play
 // 浏览器打开文档
-http://127.0.0.1:8888/pkg/github.com/wleven/wxpay/
+http://127.0.0.1:8888/pkg/github.com/godtou/wxpay/
 ```
 
 ## V2 版本下单接口

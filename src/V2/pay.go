@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"errors"
-	"github.com/wleven/wxpay/src/entity"
+	"github.com/godtou/wxpay/src/entity"
 	"io"
 	"io/ioutil"
 	"net/http"
@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/wleven/wxpay/utils"
+	"github.com/godtou/wxpay/utils"
 )
 
 // WxPay 微信支付

@@ -1,3 +1,3 @@
-module github.com/wleven/wxpay
+module github.com/godtou/wxpay
 
-go 1.15
+go 1.14
